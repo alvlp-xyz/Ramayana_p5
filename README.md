@@ -56,6 +56,3 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh [Kelom
 
 This project is licensed under the [MIT License](./LICENSE).
 
----
-
-Enjoy the adventure!
