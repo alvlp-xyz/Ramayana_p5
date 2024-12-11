@@ -1,6 +1,6 @@
 # Penculikan Shinta - P5
 
-Selamat datang diproject **P5, Kearifan Lokal** oleh [Kelompok 3](#-team) dari kelas Fase E2
+Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh [Kelompok 3](#-team) dari kelas Fase E2
 
 
 ---
