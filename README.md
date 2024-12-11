@@ -1,15 +1,13 @@
 # Penculikan Shinta - P5
 
-Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh [Kelompok 3](#-team) dari kelas Fase E2
+Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh **[Kelompok 3](#-team)** dari kelas Fase E2
 
 
 ---
 
-![Game Screenshot](./screenshots/main_gameplay.png)
-
 ## 🚀 Tentang Project
 
-**P5 <u><i>(Projek Penguatan Profil Pelajar Pancasila)</i></u>** tentang Kearifan Lokal, menganbil tema Konten/Game Digital dan cerita Ramayana tentang Penculikan Shinta 
+**P5 <u><i>(Projek Penguatan Profil Pelajar Pancasila)</i></u>** tentang Kearifan Lokal, mengambil Konten/Game Digital dan tema cerita Ramayana tentang Penculikan Shinta 
 
 ---
 
@@ -18,21 +16,18 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh [Kelom
 - **Unity 2D**
 - **VSCodium**
 - **Unity Assets Store**
-- **Coffe**
-- **Music**
+- **Kopi: Kapal Api**
+- **Musik**
 
 ---
 
 ## 🖼️ Screenshots
 
-### 1
-![Main Menu Screenshot](./screenshots/1.png)
+![Screenshot 1](./screenshots/1.png)
 
-### 2
-![Gameplay Screenshot](./screenshots/2.png)
+![Screenshot 2](./screenshots/2.png)
 
-### 3
-![Boss Fight Screenshot](./screenshots/3.png)
+![Screenshot 3](./screenshots/3.png)
 
 ---
 
@@ -49,10 +44,11 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh [Kelom
 ## 🌟 Kredit
 
 - Terinspirasi dari cerita wayang Penculikan Shinta
+- [Kredit Gambar dan Asset](https://example.com)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).
+Project ini dibawah Lisensi [MIT License](./LICENSE).
 
