@@ -1,18 +1,15 @@
-# Ramayana P5 - Kelompok 3
+# Penculikan Shinta - P5
 
-Welcome to **Ramayana P5**, a captivating game inspired by the legendary Indian epic, Ramayana! Step into a world of heroism, devotion, and adventure as you embark on a journey filled with challenges and triumphs.
+Selamat datang diproject **P5, Kearifan Lokal** oleh [Kelompok 3](#-team) dari kelas Fase E2
+
 
 ---
 
 ![Game Screenshot](./screenshots/main_gameplay.png)
 
-## 🚀 About the Project
+## 🚀 Tentang Project
 
-**Ramayana P5** is a project developed by Kelompok 3 as part of our P5 coursework. The game blends traditional storytelling with modern game mechanics, offering players a chance to:
-
-- Experience the epic tale of Ramayana.
-- Solve puzzles and overcome enemies.
-- Immerse themselves in a beautifully crafted environment.
+**P5 <u><i>(Projek Penguatan Profil Pelajar Pancasila)</i></u>** tentang Kearifan Lokal, menganbil tema Konten/Game Digital dan cerita Ramayana tentang Penculikan Shinta 
 
 ---
 
@@ -28,18 +25,18 @@ Welcome to **Ramayana P5**, a captivating game inspired by the legendary Indian 
 
 ## 🖼️ Screenshots
 
-### Main Menu
+### 1
 ![Main Menu Screenshot](./screenshots/1.png)
 
-### 
+### 2
 ![Gameplay Screenshot](./screenshots/2.png)
 
-### Boss Fight
+### 3
 ![Boss Fight Screenshot](./screenshots/3.png)
 
 ---
 
-## 🤝 Team Kelompok 3 Kelas E2
+## 🤝 Team
 
 - **[Alvinno Lintang Pamungkas]**: 02
 - **[Denta Pratama]**: 06
@@ -49,23 +46,15 @@ Welcome to **Ramayana P5**, a captivating game inspired by the legendary Indian 
 
 ---
 
-## 🌟 Acknowledgements
+## 🌟 Kredit
 
-- Inspired by the Ramayana epic.
-- Thanks to our mentors and peers for their guidance.
+- Terinspirasi dari cerita wayang Penculikan Shinta
 
 ---
 
 ## 📜 License
 
 This project is licensed under the [MIT License](./LICENSE).
-
----
-
-### 📬 Contact Us
-For questions or feedback, reach out to us at:
-- Email: kelompok3@ramayana-p5.com
-- GitHub: [Kelompok3-Ramayana](https://github.com/your-username/ramayana-p5)
 
 ---
 
