@@ -1,0 +1,24 @@
+# Ignore Unity specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Ignore auto-generated files
+/Assets/Plugins/Editor/
+
+# Ignore personal settings
+UserSettings/
+*.userprefs
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore crash reports and temporary files
+*.pidb
+*.apk
+*.unitypackage
+
