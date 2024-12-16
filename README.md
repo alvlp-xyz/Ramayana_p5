@@ -35,11 +35,11 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh **[Kel
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](./screenshots/1.png)
+![Screenshot 1](https://github.com/alvlp-xyz/ramayana-p5/raw/refs/heads/main/s1)
 
-![Screenshot 2](./screenshots/2.png)
+![Screenshot 2](https://github.com/alvlp-xyz/ramayana-p5/raw/refs/heads/main/s2)
 
-![Screenshot 3](./screenshots/3.png)
+![Screenshot 3](https://github.com/alvlp-xyz/ramayana-p5/raw/refs/heads/main/s3)
 
 ---
 
