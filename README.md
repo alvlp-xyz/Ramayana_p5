@@ -5,9 +5,14 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh **[Kel
 
 ---
 
-## Download
+## 🎮 Download Game
 
-[![Download Project](https://via.placeholder.com/300x80.png?text=Download)](https://github.com/alvlp-xyz/ramayana-p5/releases/download/Download/app_release.apk "Download")
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/alvlp-xyz/ramayana-p5/releases/download/Download/app_release.apk" title="Unduh Project">
+    <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Background-Image.png" alt="Download Button" style="width: 300px; height: auto; border: none;">
+  </a>
+</div>
+
 
 
 ---
