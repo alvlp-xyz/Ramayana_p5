@@ -5,6 +5,12 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh **[Kel
 
 ---
 
+## Download
+
+[![Download Project](https://via.placeholder.com/300x80.png?text=Download+Project)](google.com "Download")
+
+---
+
 ## 🚀 Tentang Project
 
 **P5 <u><i>(Projek Penguatan Profil Pelajar Pancasila)</i></u>** tentang Kearifan Lokal, mengambil Konten/Game Digital dan tema cerita Ramayana tentang Penculikan Shinta 
