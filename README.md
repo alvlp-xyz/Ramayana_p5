@@ -7,7 +7,8 @@ Selamat datang diproject **[P5](#-tentang-project), Kearifan Lokal** oleh **[Kel
 
 ## Download
 
-[![Download Project](https://via.placeholder.com/300x80.png?text=Download+Project)](google.com "Download")
+[![Download Project](https://via.placeholder.com/300x80.png?text=Download)](https://github.com/alvlp-xyz/ramayana-p5/releases/download/Download/app_release.apk "Download")
+
 
 ---
 
